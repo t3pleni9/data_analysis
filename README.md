@@ -33,3 +33,4 @@ Start jupyter server
 ## Links
 
 1. [Templates](./templates)
+2. [Probability](./probability/probability_python.ipynb)
